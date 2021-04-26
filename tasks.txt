@@ -1,0 +1,12 @@
+Write a code to perform the following task
+
+1. read a sequence of characters count only capital alphabets
+
+2. read a sequence of characters count alphabets
+
+3. read a single number from zero to nine and display the number in string
+example input: 3 output: three
+print invalid  if 6,7,8,9
+
+4. read a sequence of characters and count only characters and numbers 
+u+3*4ab8
