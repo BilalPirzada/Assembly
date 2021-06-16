@@ -1,0 +1,1 @@
+;Read a sequence of characters and count only capital alphabets
